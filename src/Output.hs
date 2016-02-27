@@ -8,7 +8,7 @@
 --
 -- ----------------------------------------------------------------------------}
 
-module Output (outputDFA) where
+module Output (outputDFA, mkTables) where
 
 import AbsSyn
 import CharSet
